@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
     Point mLocationLayerPoint;
     String mLocationLayerPointString;
 
+    // Create and add a GraphicsLayer
+    mMapView.addLayer(new GraphicsLayer());
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
