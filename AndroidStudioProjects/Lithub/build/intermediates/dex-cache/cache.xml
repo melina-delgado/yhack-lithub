@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_1d08c45275f5cfe4463f40ccc97acea36a9f2e22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_329f350302b189ca2b06843639ed091c2c9b15e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_931508cfe0e520d4cd69d46566a7b9e9d7f1e9f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_9c1ebb0c0e71f1fce787d0ceb6183427bcf5219a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_b2d489a89fb1638fdcf93334d5065d5fb05a0ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_76ee40159a17f7d53378d39f039a6c4cca48204d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_9871dadedd8a48ee53f6c427597e7e2cba7d05a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_4968488e91a8a14cf0c75689a6ed56cc7a5cb1c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_740f0120a75135327f4072856d317ea6be4c56ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_9ac7af48b2ac8c86dde2253672af63a20ab4fd18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_f33cf6214556905e41edf363c8615ccd02aba904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_9c64599c69d73bc869103070859dc9eb52c2c1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_62e4ab617dfeeea7db4676faf2a7d04acb9dd869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_4de210a89bd50045686dd1dfeeef5237be01b109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_40a10c4cccef94ca4e3774e8c932e6cae18ea577/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_7cab39fb22e10fb9e13a5d640ddfa6bcf83b94ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_31f337375f7549924aa49ece012716de208c9887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_fc5fd9267a0987ed86193030de20577b6cb0b428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_64fbae084bf3cc3f319436fcbe77885050b56c11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_725102dfc3dacb5398489fb1c2972c154253c913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_2ff1ea92e19b54abd90cdefbdc4d8e532f62613c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ad83ab17f0f76e1bf1944ac991a54adcd4d2013">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eaa5552b85c494f493defa5a8423d58828cb99e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_459e71106f2c5f650fa7c11b4fd18b453f3055a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b8352956474fb833f80a41e2ecc02e477b3d4ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3ca04b021d02047071049f8480549d40a5c5919e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_8be02e546e4563324bd0064adb7ed34165dfc5e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_93529435b3360056a0cd84bc6f1d06332fceefdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7911627c328ddee99e00430b88e3338c88be6f59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_8c513d56497a35aa1fa2eb50f36c0ff1ec9ebf18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_b09fdbb965e9fd206afc94a02685b58d542b5569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_e6116ec7499c6795e345b10cc954c22169ee53f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_adff00528c9e6157d2acd17484434304f71879af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_faa3b2af8001e0b87b6307995013acf870c132ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_76139e8abf6bd419c092837b5d5715c9fd68c449/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_19cc513a8565c3cc74f86b9fbbdaf69216c78ebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_73edc160628924e8e57f4c9c0bc9cfb51476ada2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_aa0ab0bd410f2135dddcaa21b1648a1be7833c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_40ca6a180cf002bd6e4978ae49f53a7565f7d811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_09b8de6ecbef6e220b48235e6f7216bd6ef25a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_60b40db962b1148f300c6a7432adcbfab8fba796/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2416411b7d6b2e7820e60d7f823d4d65dc68e00c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_1cf48f89301e36fa0fd245b2b4f36f25a8c48d10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_387d41c5fd71eb1e392bbed894edd20806ac5a5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_aded0cce9d8990470c2a6228f671dfd748537f14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_9414aec15e8c9e26f029843e647356b58c271957/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_e7779583d91a78770a288a4102388887a4917a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_9a48b12792ca4185bae8b1c778e90581bf707d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_c4d4f4f3e60194baa7aa462db6397905c81e7baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_186ee5841adae17f7ff509f87b2f8abb33b5292a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_2c4c4fd6f0be6627a1bac7505d2526ef90dd725a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_d661ae5f38aabe62452d739c53a6ead26032de59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_2efdb05b4c13d53fe1a15334b279c762f5aff058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_a59d5ca55cf2f7cb5753fb7651dfc7affb1c3280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_c40f7fff777f607aef82bec482d18023305a5a89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_0891eedde4e6d3e184a48b748e56d4a12103620c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c30c29e66538d4a49d84a3aa738c0b10b0410698">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93f802a576b7b064c80ab61a5ab2fdc77f65a188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_27f7d2bc4313295afd99a41d6e3ff953fd7f1f2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_72de083ee6ecf4fb6f23a2e6f425b86923053920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_519d0a26bb2a6cd9af56998f166bab15d86b7286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_9e9f9af02e7e5f995f84a45ccac71a21bb865c1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_073885cbe959fb428131a0a0078ec1aab1edebc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_6b9f707613b7ca81a2d9d2abbad02641536b7f86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_f771c4e641153d423cc980c79e69c8593b81a22b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_6a0b0566591bdaf76b24ed292fbdbfbc123b8cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_5853c4713ab9680a1f41b4c24170320165079814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_e3d83117dff623a907564ed0b386cfa80e1ed102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b6fe76cf2ed3c3bc0e68bbecb4b03d757bfc2089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_336b1ee8a8e1a16a51bd563d047ee4dfa93bde40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_d866d8b3a2af0e373c14db05de48b662dfbd9943/classes.dex" />
+    </item>
+
+</items>

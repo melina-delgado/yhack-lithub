@@ -1,0 +1,7 @@
+#Sat Nov 12 15:26:14 EST 2016
+base.0=/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93f802a576b7b064c80ab61a5ab2fdc77f65a188
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eaa5552b85c494f493defa5a8423d58828cb99e3/classes.dex
+base.1=/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eaa5552b85c494f493defa5a8423d58828cb99e3
+file.0=/Users/dproctor15/AndroidStudioProjects/AndroidStudioProjects/Lithub/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93f802a576b7b064c80ab61a5ab2fdc77f65a188/classes.dex
