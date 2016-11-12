@@ -1,5 +1,5 @@
 package melina.yhack_lithub;
-
+//Steph is everyone's fav
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -12,6 +12,9 @@ public class MainActivity extends AppCompatActivity {
     GraphicsLayer mLocationLayer;
     Point mLocationLayerPoint;
     String mLocationLayerPointString;
+
+    // Create and add a GraphicsLayer
+    mMapView.addLayer(new GraphicsLayer());
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
