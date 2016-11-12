@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.8-1\jars\libs\jcifs-1.3.17.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\jcifs-1.3.17_a6aabc1e0415fdfcad74a7a0dfccf6724627d233\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.8-1\jars\libs\arcgis-android-api.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6201a26359608fc9e8769a347897ee6637d285f3">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\arcgis-android-api_7eca9cd145d0c67b7da3347fb63e355328ace585\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_d4504d5795f566f9d3eed4f3d6f1328d9e3c187a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20ffd10b0d5e459334d830f48a9eae3fb718dbec">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c14c2a52c0ae7ff533768272be474b4ac91ff1fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_46cbff4b320fa1558741fb455100668cbed7123c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.8-1\jars\libs\arcgis-android-app-toolkit.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ebd9b7441d8dde61e7faae74f9ef9faf76b9e1d2">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\arcgis-android-app-toolkit_f9a9a90c7ff1a222182231be9f9397780d504d33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_b8be6e926219acb1b1a3408ddbc67d4747527d7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.8-1\jars\libs\jackson-core-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="75ac72d19377a95225217cb4fdfa1290f3c81145">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-1.9.5_4759a36b0ef00b7e3aa5d559503a428854580385\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_f762ee4ab960d321e626deffcf0e682a224b93a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_362b58a905a1576a427c88cea1da04cab9646385\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.8-1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e84a8de4318e1bd0580c99ad869a2bb065579fb6">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.esri.arcgis.android-arcgis-android-10.2.8-1_1c9f2cabdb5ec75940fb697ecd1bcc07c2173fa5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.esri.arcgis.android\arcgis-android\10.2.8-1\jars\libs\jackson-mapper-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbb48e87fa5e9107c17aaa0616f724d785a4d71">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-mapper-1.9.5_191b85939729f60714e7e5f5bdc54163e2d2be9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a1d75a49f77128d8b3ad069f9f76f0b94f9af8c2">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4abc22ed41030c09fae10cbe44365bc58ad750a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Melina\AndroidStudioProjects\yhack-lithub\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_2217eb74a8c90992bcb8b749355c75a4ded1ac6c\classes.dex" />
+    </item>
+
+</items>
